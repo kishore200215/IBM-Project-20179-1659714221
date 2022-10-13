@@ -5,9 +5,13 @@ Project Name - Web Phishing Detection
 Team ID - PNT2022TMID27267
 
 Team Members :
-Muazzam N. Alseri [Team Lead]
-Mohamed Suhaib Ahmed
-Dilip Kumar K
-Kishore G
+
+* Muazzam N. Alseri [Team Lead]
+
+* Mohamed Suhaib Ahmed
+
+* Dilip Kumar K
+
+* Kishore G
 
 
